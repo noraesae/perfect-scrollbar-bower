@@ -1,4 +1,4 @@
-# [ARCHIVED] - USE Use https://github.com/mdbootstrap/perfect-scrollbar
+# [ARCHIVED] - Use https://github.com/mdbootstrap/perfect-scrollbar
 
 ## Bower Package of perfect-scrollbar
 

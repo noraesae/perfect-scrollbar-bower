@@ -1,4 +1,6 @@
-# Bower Package of perfect-scrollbar
+# [ARCHIVED] - USE Use https://github.com/mdbootstrap/perfect-scrollbar
+
+## Bower Package of perfect-scrollbar
 
 This is the [Bower](https://bower.io/) package of perfect-scrollbar.
 
